@@ -6,5 +6,7 @@ upper=int(input("Enter the upper limit for the range: "))
 
 # Setting the range using For loop.
 for i in range(lower,upper+1):
+    # using if condition.
     if(i%2!=0):
+        # using print statement to print the values.
         print(i)
