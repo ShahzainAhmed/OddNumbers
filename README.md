@@ -14,3 +14,4 @@
 - User must enter the upper range limit and the lower range limit.
 - The for loop ranges from the lower range limit to the upper range limit.
 - The expression within the if-statement checks if the remainder obtained when the number divided by 2 is one or not (using the % operator).
+- If the remainder isn’t equal to 0, the number is odd and hence the number is printed.
