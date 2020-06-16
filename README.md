@@ -12,3 +12,4 @@
 
 ## Program Explanation:
 - User must enter the upper range limit and the lower range limit.
+- The for loop ranges from the lower range limit to the upper range limit.
